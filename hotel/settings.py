@@ -25,7 +25,7 @@ SECRET_KEY = '%_=t37e=le2&-_0-0u@_e85q=!6b45re(0l@2uwqprsb@f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['www.gopalmandir.co.in',  '127.0.0.1' , '159.223.220.67']
+ALLOWED_HOSTS = ['www.gopalmandir.co.in',  '127.0.0.1' , '107.20.91.170']
 
 
 # Application definition
